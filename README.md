@@ -22,7 +22,7 @@
 bash
 Copy
 Edit
-git clone https://github.com/your-username/reqres-api-testing.git
+git clone https://github.com/Praveen-kush/reqres-api-testing.git
 cd reqres-api-testing
 2. Import into Postman
 Open Postman
